@@ -1,4 +1,4 @@
-module github.com/DocumaticAI/tree-sitter-kotlin
+module github.com/rover-app/tree-sitter-kotlin
 
 go 1.22
 
